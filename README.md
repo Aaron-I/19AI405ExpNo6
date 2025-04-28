@@ -103,7 +103,8 @@ def minimax(game)
 end
 <h2>Program:</h2>
 
-```import time
+```
+import time
 
 class Game:
     def __init__(self):
